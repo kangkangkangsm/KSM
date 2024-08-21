@@ -10,7 +10,7 @@ jsp를 활용해 로그인,회원가입,봉사활동 관련 참여, 커뮤니티
 
 ![Java](https://img.shields.io/badge/Java-blue) ![HTML](https://img.shields.io/badge/HTML-blue) ![CSS](https://img.shields.io/badge/CSS-blue) ![JSP](https://img.shields.io/badge/JSP-brightgreen) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  ![Servlet](https://img.shields.io/badge/Servlet-green) ![MySQL](https://img.shields.io/badge/MySQL-blue)
 
-## 🔧 기능 정리
+#### 🔧 기능 정리
 
 - 
 -
