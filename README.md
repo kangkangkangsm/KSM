@@ -14,5 +14,5 @@ jsp를 활용해 로그인,회원가입,봉사활동 관련 참여, 커뮤니티
 - CSS
 - JAVASCRIPT  
 - SETVLET
-- MYSQL
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
