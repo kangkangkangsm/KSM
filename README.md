@@ -8,7 +8,7 @@ jsp를 활용해 로그인,회원가입,봉사활동 관련 참여, 커뮤니티
 
 ## ✔ 사용 언어
 
-- ![JSP](https://img.shields.io/badge/JSP-Working-brightgreen)
+- ![JSP](https://img.shields.io/badge/JSP-brightgreen)
 - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 - ![CSS](https://img.shields.io/badge/CSS-blue)
