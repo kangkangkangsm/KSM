@@ -13,6 +13,5 @@ jsp를 활용해 로그인,회원가입,봉사활동 관련 참여, 커뮤니티
 - ![HTML](https://img.shields.io/badge/HTML-blue)
 - ![CSS](https://img.shields.io/badge/CSS-blue)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- ![Servlet](https://img.shields.io/badge/Servlet-Running-green)
-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+- ![Servlet](https://img.shields.io/badge/Servlet-green)
+- ![MySQL](https://img.shields.io/badge/MySQL-blue)
